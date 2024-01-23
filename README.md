@@ -4,7 +4,7 @@
 
 * **category**    Library
 * **author**      Michael Hodel <info@adiuvaris.ch>
-* **version**     1.0.0
+* **version**     1.0.1
 * **copyright**   2023-2023 Michael Hodel - Adiuvaris
 * **license**     http://www.gnu.org/copyleft/lesser.html GNU-LGPL v3 (see LICENSE.TXT)
 * **link**        https://github.com/adiuvaris/PDFReport

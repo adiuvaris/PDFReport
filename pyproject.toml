@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "PDFReport"
-version = "1.0.0"
+version = "1.0.1"
 description = "Create PDF reports"
 readme = "README.md"
 authors = [{ name = "Michael Hodel", email = "info@adiuvaris.ch" }]
@@ -31,7 +31,7 @@ dev = ["black", "bumpver", "isort", "pip-tools", "pytest", "build", "twine", "sp
 Homepage = "https://github.com/adiuvaris/PDFReport"
 
 [tool.bumpver]
-current_version = "1.0.0"
+current_version = "1.0.1"
 version_pattern = "MAJOR.MINOR.PATCH"
 commit_message = "bump version {old_version} -> {new_version}"
 tag_message = "{new_version}"
