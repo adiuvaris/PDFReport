@@ -18,7 +18,7 @@ classifiers = [
 keywords = ["PDF", "report", "generator", "library"]
 dependencies = [
     "fpdf2 >= 2.7.6",
-    "Pillow >= 10.1.0",
+    "Pillow >= 12.3.0",
     "qrcode >= 7.4.2",
     "python-barcode >= 0.15.1"
 ]
